@@ -1,4 +1,4 @@
-# Ultra Instinct [Semi]
+# Ultra Instinct V2 [Not Perfect]
 
 ```lua
 -- // Sakura Stand Auto Dodge V2 \\ --
